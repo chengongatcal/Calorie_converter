@@ -1,0 +1,16 @@
+{
+    "title":"proj1",
+    "description":"This template can be used to create a basic KinomaJS application .",
+    "id":"proj1.project.kinoma.marvell.com",
+    "tags":[
+    	"uisample",
+        "emptySample"
+    ],
+    "Create":{
+        "main":"main",
+         "main":"src/main"
+    },
+    "Element":{
+        "main":"main"
+    }
+}
